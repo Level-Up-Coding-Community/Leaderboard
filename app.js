@@ -16,7 +16,6 @@ document.addEventListener('DOMContentLoaded', function() {
         { rank: 7, name: 'Bhanu priya' },
         { rank: 8, name: 'Hasini Kota' },
         { rank: 8, name: 'Varsha' },
-        { rank: 8, name: 'Varsha' },
         { rank: 8, name: 'Ashutosh' },
         { rank: 8, name: 'Shravya Jakkani' },
         { rank: 9, name: 'Arya' },
