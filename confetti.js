@@ -171,7 +171,7 @@ $(document).ready(function() {
         var context = canvas.getContext('2d');
         var interval = null;
         
-        var confettiPaperCount = 15;
+        var confettiPaperCount = 5;
         var confettiPapers = new Array();
         ConfettiPaper.bounds = new Vector2(canvas.width, canvas.height);
         for (i = 0; i < confettiPaperCount; i++) {
